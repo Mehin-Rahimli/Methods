@@ -8,9 +8,9 @@
 //        static void Main(string[] args)
 //        {
 //            int[] array = { 0, 1, 2, 3, 4, 5, 6, 7 };
-//            Console.WriteLine(GetSmallest(array));
+//            Console.WriteLine(GetMin(array));
 //        }
-//        public static int GetSmallest(int[] arr)
+//        public static int GetMin(int[] arr)
 //        {
 //            int min = arr[0];
 //            for (int i = 0; i < arr.Length; i++)
